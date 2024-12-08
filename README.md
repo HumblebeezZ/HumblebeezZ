@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I'm a language learner who just dip my toes into GitHub.
+
+🎯 first goal: a personal page
+
+**你好哇** 👋
+
+我是一名语言学习者，刚开始接触GitHub。
+
+🎯 小目标1：制作个人网页
+
 <!--
 **HumblebeezZ/HumblebeezZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
